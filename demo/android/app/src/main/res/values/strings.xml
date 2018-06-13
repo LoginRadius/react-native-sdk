@@ -1,0 +1,5 @@
+<resources>
+    <string name="facebook_app_id">put-your-facbook-appid</string>
+    <string name="app_name">demo</string>
+
+</resources>

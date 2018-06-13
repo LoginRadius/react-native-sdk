@@ -1,0 +1,9 @@
+{
+  "name": "demo",
+  "displayName": "demo",
+  "apiKey":"<put your apiKey>",
+  "appName":"<put your appName>",
+  "sott":"<put your sott>",
+  "verificationUrl":"https://auth.lrcontent.com/mobile/verification/index.html",
+  "resetPasswordUrl":"https://auth.lrcontent.com/mobile/verification/index.html"
+}
