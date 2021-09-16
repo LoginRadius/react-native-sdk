@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import key from "./app.json";
-import { Linking, Platform, WebView, StyleSheet } from 'react-native';
+import { Linking, Platform, StyleSheet } from 'react-native';
 
 let BASE_URL = "https://api.loginradius.com";
 
@@ -1187,11 +1187,6 @@ class LoginRadiusSDK extends Component {
         }
 
         callback(url);
-    }
-
-
-    _onNavigationStateChange(webViewState) {
-        alert(webViewState.url)
     }
 
 
